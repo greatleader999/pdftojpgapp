@@ -1,1 +1,5 @@
 streamlit
+pdf2image
+Pillow
+pymupdf
+zipfile
